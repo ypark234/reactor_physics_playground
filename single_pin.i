@@ -26,8 +26,8 @@ c
 
 c     data cards
 c     burnup card
-burn time=0.2 4r 0.5 3r 10 2r 100 3r 300 2r
-     pfrac=1 18r
+burn time=0.2 4r 0.5 3r 10 2r 100 3r 300 2r 10 90 900 9000 90000
+     pfrac=1 18r 0 4r
      power=6.69454e-2  $ 3411MWth / 193 assemblies / (17X17-25) rods
      bopt=1 24 -1  $ including Tier 3 fission products
      mat=1 omit= -1 4 6014 7016 8018 9018
